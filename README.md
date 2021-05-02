@@ -1,0 +1,3 @@
+# stock_related
+目前進度 Time_Series_project1
+探討股票報酬的自相關係數與白噪音
