@@ -38,7 +38,7 @@ class finance:
 
 
 
-raw_data = yf.download(tickers = '2330.TW', period = '10y', interval = '1d' )
+raw_data = yf.download(tickers = '2330.TW', period = '1y', interval = '1d' )
 rt = []
 dt = []
 for t in range(1,len(raw_data['Close'])):
